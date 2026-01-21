@@ -1,0 +1,25 @@
+# Temporary/Generated Folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+.vscode/
+.vs/
+
+# Generated Project Files
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.xcworkspace
+*.xcodeproj
+
+# Large/Auto-save files
+*.log
+*.bak
+*.swp
+
+# macOS specific
+.DS_Store
