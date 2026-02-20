@@ -17,3 +17,4 @@ That quote is just an example of how useless it is, if I will already need my cu
 
 * Server will not receive the RepNotify
 * Server RPC, its implementation in the CPP file must have the suffix _Implementation added to the function name
+* string to int32: FCString::Atoi(*FString), Atoi !! ffs
