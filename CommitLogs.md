@@ -1,5 +1,9 @@
 # Commit logs
 
+## \[2026/02/22]
+
+* Character customization Scene initial setup
+
 ## \[2026/02/20]
 
 * Initial structure for character creation
