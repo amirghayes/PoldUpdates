@@ -1,5 +1,9 @@
 # Commit logs
 
+## \[2026/02/24]
+
+* Animations retargeting completed, should be able to add more animations easily
+
 ## \[2026/02/22]
 
 * Character customization Scene initial setup
@@ -11,7 +15,13 @@
 ## \[2026/02/19]
 
 * Game login flow completed
-  Rate limiting / Encryption / Validation / Banning / Initial check for Avatars
+
+
+
+Rate limiting / Encryption / Validation / Banning / Initial check for Avatars
+
+
+
 * Main Communication structure completed.
 
 ## \[2026/02/14]
@@ -20,4 +30,4 @@
 
 ## \[2026/02/13]
 
-* Created the intitial communication logic.
+* Created the initial communication logic.
