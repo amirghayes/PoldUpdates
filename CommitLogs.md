@@ -2,6 +2,8 @@
 
 ## \[2026/02/24]
 
+* Basic customization completed.
+
 * Input handling for character customization
 
 * Animations retargeting completed, should be able to add more animations easily
