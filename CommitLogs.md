@@ -4,6 +4,8 @@
 
 * Character selection completed with mock data to speed up development.
 
+* Minor bug fix, and connecting to main map.
+
 ## [2026/02/24]
 
 * Basic customization completed.
