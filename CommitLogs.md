@@ -2,9 +2,11 @@
 
 ## [2026/02/25]
 
-* Character selection completed with mock data to speed up development.
+* Refactored customization data, and created main character.
 
 * Minor bug fix, and connecting to main map.
+
+* Character selection completed with mock data to speed up development.
 
 ## [2026/02/24]
 
