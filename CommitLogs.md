@@ -1,5 +1,9 @@
 # Commit logs
 
+## [2026/02/26]
+
+* Character movement and animation BP completed
+
 ## [2026/02/25]
 
 * Refactored customization data, and created main character.
