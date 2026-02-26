@@ -1,5 +1,10 @@
 # Commit logs
 
+
+## [2026/02/27]
+
+* Camera zoom completed, and an additional avatar
+
 ## [2026/02/26]
 
 * Character movement and animation BP completed
