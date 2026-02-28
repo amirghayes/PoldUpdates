@@ -2,6 +2,8 @@
 
 ## [2026/02/28]
 
+* Added missed blend spaces
+
 * Separate skeleton with over 150 new animations
 
 ## [2026/02/27]
