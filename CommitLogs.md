@@ -1,5 +1,8 @@
 # Commit logs
 
+## [2026/02/28]
+
+* Separate skeleton with over 150 new animations
 
 ## [2026/02/27]
 
