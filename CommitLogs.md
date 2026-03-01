@@ -1,49 +1,46 @@
 # Commit logs
 
 
-## [2026/03/01]
 
+## \[2026/03/01]
+
+* Full body IK completed
 * Added additional mesh and hair to test rig, still not working
 
-## [2026/02/28]
+## \[2026/02/28]
 
 * Added missed blend spaces
-
 * Separate skeleton with over 150 new animations
 
-## [2026/02/27]
+## \[2026/02/27]
 
 * Camera zoom completed, and an additional avatar
 
-## [2026/02/26]
+## \[2026/02/26]
 
 * Character movement and animation BP completed
 
-## [2026/02/25]
+## \[2026/02/25]
 
 * Refactored customization data, and created main character.
-
 * Minor bug fix, and connecting to main map.
-
 * Character selection completed with mock data to speed up development.
 
-## [2026/02/24]
+## \[2026/02/24]
 
 * Basic customization completed.
-
 * Input handling for character customization
-
 * Animations retargeting completed, should be able to add more animations easily
 
-## [2026/02/22]
+## \[2026/02/22]
 
 * Character customization Scene initial setup
 
-## [2026/02/20]
+## \[2026/02/20]
 
 * Initial structure for character creation
 
-## [2026/02/19]
+## \[2026/02/19]
 
 * Game login flow completed
 
