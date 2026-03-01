@@ -1,5 +1,10 @@
 # Commit logs
 
+
+## [2026/03/01]
+
+* Added additional mesh and hair to test rig, still not working
+
 ## [2026/02/28]
 
 * Added missed blend spaces
