@@ -4,6 +4,7 @@
 
 ## \[2026/03/01]
 
+* Initial setup for animations BP
 * Full body IK completed
 * Added additional mesh and hair to test rig, still not working
 
