@@ -1,6 +1,8 @@
 # Commit logs
 
+## \[2026/03/03]
 
+* Weapon equipping logic completed
 
 ## \[2026/03/01]
 
