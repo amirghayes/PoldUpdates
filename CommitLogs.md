@@ -2,6 +2,7 @@
 
 ## \[2026/03/03]
 
+* Locking on target completed
 * Weapon equipping logic completed
 
 ## \[2026/03/01]
