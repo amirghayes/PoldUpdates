@@ -2,6 +2,7 @@
 
 ## \[2026/03/05]
 
+* Axe and shield attack behavior and animation trigger
 * Foot steps effect
 
 ## \[2026/03/03]
