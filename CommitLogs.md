@@ -1,5 +1,9 @@
 # Commit logs
 
+## \[2026/03/05]
+
+* Foot steps effect
+
 ## \[2026/03/03]
 
 * Locking on target completed
