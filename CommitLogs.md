@@ -2,6 +2,7 @@
 
 ## \[2026/03/05]
 
+* Hit effect
 * Initial landscape
 * Axe and shield attack behavior and animation trigger
 * Foot steps effect
