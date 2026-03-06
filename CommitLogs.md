@@ -2,6 +2,10 @@
 
 ## \[2026/03/05]
 
+* The mob is responsible of managing hit now
+
+## \[2026/03/05]
+
 * Hit effect
 * Initial landscape
 * Axe and shield attack behavior and animation trigger
