@@ -1,5 +1,9 @@
 # Commit logs
 
+## \[2026/03/08]
+
+* Initial behavior tree setup for mobs
+
 ## \[2026/03/05]
 
 * The mob is responsible of managing hit now
