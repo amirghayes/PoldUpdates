@@ -1,5 +1,9 @@
 # Commit logs
 
+## \[2026/03/09]
+
+* Mobs animation blueprint initial setup
+
 ## \[2026/03/08]
 
 * Initial behavior tree setup for mobs
