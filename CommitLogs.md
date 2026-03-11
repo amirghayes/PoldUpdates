@@ -2,6 +2,7 @@
 
 ## \[2026/03/11]
 
+* Fix: Attack animation plays correctly on all clients
 * Fix: Weapon equipping replication
 
 ## \[2026/03/09]
