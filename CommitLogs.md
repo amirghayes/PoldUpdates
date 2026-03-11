@@ -1,5 +1,9 @@
 # Commit logs
 
+## \[2026/03/11]
+
+* Fix: Weapon equipping replication
+
 ## \[2026/03/09]
 
 * Mobs animation blueprint initial setup
