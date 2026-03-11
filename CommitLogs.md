@@ -2,6 +2,7 @@
 
 ## \[2026/03/11]
 
+* Fix: Mismatched animations, clients play same attack animation now
 * Fix: Replicated hit effect
 * Fix: Attack animation plays correctly on all clients
 * Fix: Weapon equipping replication
