@@ -2,6 +2,12 @@
 
 
 
+## \[2026/03/13]
+
+* Mob AI attack and its animations
+
+
+
 ## \[2026/03/12]
 
 * Fix: Odd avatar rotation, rotation match on all clients now
