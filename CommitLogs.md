@@ -4,6 +4,7 @@
 
 ## \[2026/03/13]
 
+* Avatar Getting hit
 * Mob AI attack and its animations
 
 
