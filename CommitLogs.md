@@ -4,6 +4,7 @@
 
 ## \[2026/03/17]
 
+* Player can receive damage and the UI updates
 * Health bar widget
 
 
