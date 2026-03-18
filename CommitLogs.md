@@ -4,6 +4,7 @@
 
 ## \[2026/03/18]
 
+* Mob health bar widget
 * Mob spawner initial setup
 
 
