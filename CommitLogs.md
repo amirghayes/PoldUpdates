@@ -2,10 +2,17 @@
 
 
 
+## \[2026/03/18]
+
+* Mob spawner initial setup
+
+
+
 ## \[2026/03/17]
 
 * Player can receive damage and the UI updates
 * Health bar widget
+
 
 
 ## \[2026/03/13]
@@ -142,3 +149,4 @@ Rate limiting / Encryption / Validation / Banning / Initial check for Avatars
 ## \[2026/02/13]
 
 * Created the initial communication logic.
+
