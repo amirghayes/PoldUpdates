@@ -4,6 +4,7 @@
 
 ## \[2026/03/19]
 
+* Fix: Duplicated damage to mobs
 * Mob immunity indication
 
 
