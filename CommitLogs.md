@@ -2,6 +2,12 @@
 
 
 
+## \[2026/03/19]
+
+* Mob immunity indication
+
+
+
 ## \[2026/03/18]
 
 * Mob health bar widget
