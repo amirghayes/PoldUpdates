@@ -4,6 +4,7 @@
 
 ## \[2026/03/19]
 
+* Mob can die now
 * Fix: Duplicated damage to mobs
 * Mob immunity indication
 
