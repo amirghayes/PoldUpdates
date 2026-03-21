@@ -4,7 +4,9 @@
 
 ## \[2026/03/21]
 
+* Behavior tree improvement and better attack on sight logic
 * Close button on mob window removes locked target
+
 
 
 ## \[2026/03/19]
