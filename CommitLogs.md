@@ -4,6 +4,7 @@
 
 ## \[2026/03/21]
 
+* Created a temporary smaller map to improve development performance
 * Behavior tree improvement and better attack on sight logic
 * Close button on mob window removes locked target
 
