@@ -2,6 +2,11 @@
 
 
 
+## \[2026/03/21]
+
+* Close button on mob window removes locked target
+
+
 ## \[2026/03/19]
 
 * Mob can die now
