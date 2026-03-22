@@ -2,6 +2,11 @@
 
 
 
+## \[2026/03/22]
+
+* Mobs can drop loot when they die now
+
+
 ## \[2026/03/21]
 
 * Created a temporary smaller map to improve development performance
