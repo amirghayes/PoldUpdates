@@ -2,9 +2,16 @@
 
 
 
+## \[2026/03/23]
+
+* Inventory window drag and drop
+
+
+
 ## \[2026/03/22]
 
 * Mobs can drop loot when they die now
+
 
 
 ## \[2026/03/21]
