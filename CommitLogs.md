@@ -4,6 +4,7 @@
 
 ## \[2026/03/23]
 
+* Fix: Main widget canvas blocking mouse events
 * Inventory window drag and drop
 
 
