@@ -4,6 +4,7 @@
 
 ## \[2026/03/26]
 
+* Pickup tooltip widget on hover
 * Pickup data table and highlight on hover
 
 
