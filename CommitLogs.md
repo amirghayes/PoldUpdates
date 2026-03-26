@@ -2,6 +2,11 @@
 
 
 
+## \[2026/03/26]
+
+* Pickup data table and highlight on hover
+
+
 ## \[2026/03/23]
 
 * Fix: Main widget canvas blocking mouse events
