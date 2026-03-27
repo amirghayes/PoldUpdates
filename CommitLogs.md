@@ -4,16 +4,19 @@
 
 ## \[2026/03/27]
 
+* Refactored Loot from Object to Structure
 * Pickup has a reference to owner now
 * Fix: Locked and confirmed target replicated properly
 * Fix: Lock on target is cleared now after target destruction
 * Fix: Pickup physics simulation working correctly on client and server now
 
 
+
 ## \[2026/03/26]
 
 * Pickup tooltip widget on hover
 * Pickup data table and highlight on hover
+
 
 
 ## \[2026/03/23]
