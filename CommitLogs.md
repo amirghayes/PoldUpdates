@@ -4,6 +4,7 @@
 
 ## \[2026/03/27]
 
+* Pickup has a reference to owner now
 * Fix: Locked and confirmed target replicated properly
 * Fix: Lock on target is cleared now after target destruction
 * Fix: Pickup physics simulation working correctly on client and server now
