@@ -2,6 +2,11 @@
 
 
 
+## \[2026/03/27]
+
+* Fix: Pickup physics simulation working correctly on client and server now
+
+
 ## \[2026/03/26]
 
 * Pickup tooltip widget on hover
