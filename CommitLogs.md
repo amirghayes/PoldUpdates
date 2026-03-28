@@ -4,7 +4,9 @@
 
 ## \[2026/03/28]
 
+* Can pickup loot, and update inventory
 * Picking up dropped loot
+
 
 
 ## \[2026/03/27]
