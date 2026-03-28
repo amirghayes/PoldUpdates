@@ -2,6 +2,11 @@
 
 
 
+## \[2026/03/28]
+
+* Picking up dropped loot
+
+
 ## \[2026/03/27]
 
 * Refactored Loot from Object to Structure
