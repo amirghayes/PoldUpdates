@@ -2,6 +2,11 @@
 
 
 
+## \[2026/03/30]
+
+* Fix: Can no longer drop inventory window outside viewport
+
+
 ## \[2026/03/29]
 
 * Fix: Inventory window stays inside viewport
