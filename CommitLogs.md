@@ -2,6 +2,11 @@
 
 
 
+## \[2026/03/29]
+
+* Fix: Inventory window stays inside viewport
+
+
 ## \[2026/03/28]
 
 * Can pickup loot, and update inventory
