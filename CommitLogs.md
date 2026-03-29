@@ -4,6 +4,7 @@
 
 ## \[2026/03/30]
 
+* Added Avatar selection to Quit menu 
 * Fix: Can no longer drop inventory window outside viewport
 
 
