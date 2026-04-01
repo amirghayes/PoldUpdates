@@ -2,6 +2,11 @@
 
 
 
+## \[2026/04/01]
+
+* Fix: Feet no longer appear under surfaces
+
+
 ## \[2026/03/30]
 
 * Added Avatar selection to Quit menu 
