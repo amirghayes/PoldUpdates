@@ -2,6 +2,11 @@
 
 
 
+## \[2026/04/05]
+
+* Saving and loading Avatar data to/from the database
+
+
 ## \[2026/04/01]
 
 * Fix: Feet no longer appear under surfaces
