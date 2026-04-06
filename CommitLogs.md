@@ -2,9 +2,16 @@
 
 
 
+## \[2026/04/06]
+
+* Avatar spawns and constructed from saved data
+
+
+
 ## \[2026/04/05]
 
 * Saving and loading Avatar data to/from the database
+
 
 
 ## \[2026/04/01]
@@ -12,15 +19,18 @@
 * Fix: Feet no longer appear under surfaces
 
 
+
 ## \[2026/03/30]
 
-* Added Avatar selection to Quit menu 
+* Added Avatar selection to Quit menu
 * Fix: Can no longer drop inventory window outside viewport
+
 
 
 ## \[2026/03/29]
 
 * Fix: Inventory window stays inside viewport
+
 
 
 ## \[2026/03/28]
