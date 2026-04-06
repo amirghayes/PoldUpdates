@@ -4,6 +4,7 @@
 
 ## \[2026/04/06]
 
+* Fix: Weapon damage replication issue
 * Avatar spawns and constructed from saved data
 
 
