@@ -2,6 +2,11 @@
 
 
 
+## \[2026/04/07]
+
+* Can Encrypt/Decrypt payload inside unreal now
+
+
 ## \[2026/04/06]
 
 * Fix: Weapon damage replication issue
