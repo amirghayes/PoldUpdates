@@ -4,11 +4,16 @@
 
 ## \[2026/04/14]
 
+
+
+* Mocking login flow temporarily for development
 * Persist GameLoginToken in GameInstance instead of Entry widget
 
 
 
 ## \[2026/04/07]
+
+
 
 * Can Encrypt/Decrypt payload inside unreal now
 
