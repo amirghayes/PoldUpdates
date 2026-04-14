@@ -2,9 +2,16 @@
 
 
 
+## \[2026/04/14]
+
+* Persist GameLoginToken in GameInstance instead of Entry widget
+
+
+
 ## \[2026/04/07]
 
 * Can Encrypt/Decrypt payload inside unreal now
+
 
 
 ## \[2026/04/06]
