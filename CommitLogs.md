@@ -6,6 +6,7 @@
 
 
 
+* UE\_LOG reminders on Communicating\_GIS for temp dev workflow
 * Loading avatar data at startup and huge refactoring and bugs fixes
 
 
