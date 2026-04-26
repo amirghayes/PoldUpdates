@@ -2,6 +2,14 @@
 
 
 
+## \[2026/04/26]
+
+
+
+* Loading avatar data at startup and huge refactoring and bugs fixes
+
+
+
 ## \[2026/04/14]
 
 
