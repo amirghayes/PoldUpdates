@@ -2,6 +2,13 @@
 
 
 
+## \[2026/04/27]
+
+
+* Fix: Avatar transform serialized correctly
+
+
+
 ## \[2026/04/26]
 
 
