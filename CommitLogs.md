@@ -5,6 +5,7 @@
 ## \[2026/04/27]
 
 
+* Initial setup for MainUpdate
 * Fix: Avatar transform serialized correctly
 
 
