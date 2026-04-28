@@ -2,7 +2,16 @@
 
 
 
+## \[2026/04/29]
+
+
+
+* MobSpawner activates/deactivates with players proximity
+
+
+
 ## \[2026/04/27]
+
 
 
 * Initial setup for MainUpdate
