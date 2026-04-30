@@ -5,6 +5,7 @@
 ## \[2026/04/30]
 
 
+* Handled invalid spawner
 * MobSpawner pulls data from database
 
 
