@@ -5,6 +5,7 @@
 ## \[2026/05/03]
 
 
+* Avatar has strafe animations now
 * Fix: (Un)Equipping replicates properly now
 
 
