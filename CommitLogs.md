@@ -2,6 +2,13 @@
 
 
 
+## \[2026/05/03]
+
+
+* Fix: (Un)Equipping replicates properly now
+
+
+
 ## \[2026/04/30]
 
 
