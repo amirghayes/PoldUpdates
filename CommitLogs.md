@@ -5,6 +5,7 @@
 ## \[2026/05/03]
 
 
+* Behavior tree uses loaded mob stats now
 * Avatar has strafe animations now
 * Fix: (Un)Equipping replicates properly now
 
