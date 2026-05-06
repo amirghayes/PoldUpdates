@@ -2,7 +2,16 @@
 
 
 
+## \[2026/05/06]
+
+
+
+* Replaced item struct with object and 6 more attack animations
+
+
+
 ## \[2026/05/03]
+
 
 
 * Behavior tree uses loaded mob stats now
@@ -12,6 +21,7 @@
 
 
 ## \[2026/04/30]
+
 
 
 * Refactored aggressive from spawner to stats
