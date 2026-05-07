@@ -2,6 +2,13 @@
 
 
 
+## \[2026/05/07]
+
+
+* Mob widget uses replicated loaded data
+
+
+
 ## \[2026/05/06]
 
 
