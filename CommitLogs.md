@@ -2,6 +2,13 @@
 
 
 
+## \[2026/05/09]
+
+
+* Pickups use Object instead of structure
+
+
+
 ## \[2026/05/07]
 
 
