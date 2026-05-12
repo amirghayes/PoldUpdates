@@ -5,6 +5,7 @@
 ## \[2026/05/12]
 
 
+* Pickups and Inventory slots works with objects now 
 * Loot structs no longer exist
 * Equipment decay
 
