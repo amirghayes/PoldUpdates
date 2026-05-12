@@ -5,6 +5,7 @@
 ## \[2026/05/12]
 
 
+* Loot structs no longer exist
 * Equipment decay
 
 
