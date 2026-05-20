@@ -2,6 +2,13 @@
 
 
 
+## \[2026/05/20]
+
+
+* Readme update with Tips section
+
+
+
 ## \[2026/05/18]
 
 

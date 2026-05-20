@@ -20,3 +20,11 @@ That quote is just an example of how useless it is, if I will already need my cu
 * string to int32: FCString::Atoi(\*FString), Atoi !! ffs
 * int has no fucking ToString(), it is FString::FromInt(int)
 
+
+
+# Tips
+
+
+
+* Never set values On CreatWidget exposed variables, there is no guarantee when its Construct event will fire, you might end up with default value if you try to use those variables elsewhere immediately after creating the widget, this might apply to everything as well, ConstructObjectFromClass and SpawnActorFromClass. In a nutshell, try to avoid exposing variables as much as you can, explicitly call a function/event to set them after creation/spawning if your code depends on those variables outside immediately after creation/spawning.
+
