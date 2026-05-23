@@ -6,6 +6,7 @@
 
 
 
+* Fix: Inventory slots drag and drop on adjacent slots
 * Standardized Drag and drop handled in a base UserWidget class
 
   Can easily add more moveable widgets from now on, just inherit from that base class
