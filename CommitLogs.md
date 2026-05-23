@@ -6,6 +6,7 @@
 
 
 
+* Flashing Loot Info window when clicked from Inventory
 * Fix: Inventory slots drag and drop on adjacent slots
 * Standardized Drag and drop handled in a base UserWidget class
 
