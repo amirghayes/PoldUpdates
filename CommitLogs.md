@@ -2,7 +2,19 @@
 
 
 
-## \[2026/05/20]
+## \[2026/05/24]
+
+
+
+* Standardized Drag and drop handled in a base UserWidget class
+
+  Can easily add more moveable widgets from now on, just inherit from that base class
+
+  Spent too much time working on this with a lot of trials and error trying to fix some bugs
+
+
+
+  ## \[2026/05/20]
 
 
 
