@@ -2,6 +2,14 @@
 
 
 
+## \[2026/05/25]
+
+
+
+* HotKeys widget which receive inventory slots drop
+
+
+
 ## \[2026/05/24]
 
 
