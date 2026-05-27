@@ -6,6 +6,9 @@
 
 
 
+
+
+* Deleted all LootActors and Loot structs and removed all references
 * Reverted back to using raw Objects for items
 
 
@@ -27,11 +30,11 @@
 * Standardized Drag and drop handled in a base UserWidget class
 
   Can easily add more moveable widgets from now on, just inherit from that base class
-  Spent too much time working on this with a lot of trials and error trying to fix some bugs
+Spent too much time working on this with a lot of trials and error trying to fix some bugs
 
 
 
-## [2026/05/20]
+  ## \[2026/05/20]
 
 
 
