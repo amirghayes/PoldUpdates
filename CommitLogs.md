@@ -6,8 +6,7 @@
 
 
 
-
-
+* Fix: Inventory slot shows correct details of combined items
 * Deleted all LootActors and Loot structs and removed all references
 * Reverted back to using raw Objects for items
 
@@ -29,26 +28,26 @@
 * Fix: Inventory slots drag and drop on adjacent slots
 * Standardized Drag and drop handled in a base UserWidget class
 
-  Can easily add more moveable widgets from now on, just inherit from that base class
+Can easily add more moveable widgets from now on, just inherit from that base class
+
 Spent too much time working on this with a lot of trials and error trying to fix some bugs
 
 
 
-  ## \[2026/05/20]
+## \[2026/05/20]
 
 
 
 * Drag and drop items in inventory
 
-  Bugged: sometimes hard to drop on adjacent slot
-
+Bugged: sometimes hard to drop on adjacent slot
 
 
 * Readme update with Tips section
 
 
 
-  ## \[2026/05/18]
+## \[2026/05/18]
 
 
 
@@ -56,7 +55,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/05/12]
+## \[2026/05/12]
 
 
 
@@ -66,7 +65,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/05/09]
+## \[2026/05/09]
 
 
 
@@ -74,7 +73,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/05/07]
+## \[2026/05/07]
 
 
 
@@ -82,7 +81,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/05/06]
+## \[2026/05/06]
 
 
 
@@ -90,7 +89,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/05/03]
+## \[2026/05/03]
 
 
 
@@ -100,7 +99,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/04/30]
+## \[2026/04/30]
 
 
 
@@ -110,7 +109,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/04/29]
+## \[2026/04/29]
 
 
 
@@ -118,7 +117,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/04/27]
+## \[2026/04/27]
 
 
 
@@ -127,7 +126,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/04/26]
+## \[2026/04/26]
 
 
 
@@ -136,7 +135,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/04/14]
+## \[2026/04/14]
 
 
 
@@ -145,7 +144,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/04/07]
+## \[2026/04/07]
 
 
 
@@ -153,46 +152,46 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/04/06]
+## \[2026/04/06]
 
 * Fix: Weapon damage replication issue
 * Avatar spawns and constructed from saved data
 
 
 
-  ## \[2026/04/05]
+## \[2026/04/05]
 
 * Saving and loading Avatar data to/from the database
 
 
 
-  ## \[2026/04/01]
+## \[2026/04/01]
 
 * Fix: Feet no longer appear under surfaces
 
 
 
-  ## \[2026/03/30]
+## \[2026/03/30]
 
 * Added Avatar selection to Quit menu
 * Fix: Can no longer drop inventory window outside viewport
 
 
 
-  ## \[2026/03/29]
+## \[2026/03/29]
 
 * Fix: Inventory window stays inside viewport
 
 
 
-  ## \[2026/03/28]
+## \[2026/03/28]
 
 * Can pickup loot, and update inventory
 * Picking up dropped loot
 
 
 
-  ## \[2026/03/27]
+## \[2026/03/27]
 
 * Refactored Loot from Object to Structure
 * Pickup has a reference to owner now
@@ -202,27 +201,27 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/03/26]
+## \[2026/03/26]
 
 * Pickup tooltip widget on hover
 * Pickup data table and highlight on hover
 
 
 
-  ## \[2026/03/23]
+## \[2026/03/23]
 
 * Fix: Main widget canvas blocking mouse events
 * Inventory window drag and drop
 
 
 
-  ## \[2026/03/22]
+## \[2026/03/22]
 
 * Mobs can drop loot when they die now
 
 
 
-  ## \[2026/03/21]
+## \[2026/03/21]
 
 * Created a temporary smaller map to improve development performance
 * Behavior tree improvement and better attack on sight logic
@@ -230,7 +229,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/03/19]
+## \[2026/03/19]
 
 * Mob can die now
 * Fix: Duplicated damage to mobs
@@ -238,34 +237,34 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/03/18]
+## \[2026/03/18]
 
 * Mob health bar widget
 * Mob spawner initial setup
 
 
 
-  ## \[2026/03/17]
+## \[2026/03/17]
 
 * Player can receive damage and the UI updates
 * Health bar widget
 
 
 
-  ## \[2026/03/13]
+## \[2026/03/13]
 
 * Avatar Getting hit
 * Mob AI attack and its animations
 
 
 
-  ## \[2026/03/12]
+## \[2026/03/12]
 
 * Fix: Odd avatar rotation, rotation match on all clients now
 
 
 
-  ## \[2026/03/11]
+## \[2026/03/11]
 
 * Fix: Mismatched animations, clients play same attack animation now
 * Fix: Replicated hit effect
@@ -274,25 +273,25 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/03/09]
+## \[2026/03/09]
 
 * Mobs animation blueprint initial setup
 
 
 
-  ## \[2026/03/08]
+## \[2026/03/08]
 
 * Initial behavior tree setup for mobs
 
 
 
-  ## \[2026/03/05]
+## \[2026/03/05]
 
 * The mob is responsible of managing hit now
 
 
 
-  ## \[2026/03/05]
+## \[2026/03/05]
 
 * Hit effect
 * Initial landscape
@@ -301,14 +300,14 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/03/03]
+## \[2026/03/03]
 
 * Locking on target completed
 * Weapon equipping logic completed
 
 
 
-  ## \[2026/03/01]
+## \[2026/03/01]
 
 * Initial setup for animations BP
 * Full body IK completed
@@ -316,26 +315,26 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/02/28]
+## \[2026/02/28]
 
 * Added missed blend spaces
 * Separate skeleton with over 150 new animations
 
 
 
-  ## \[2026/02/27]
+## \[2026/02/27]
 
 * Camera zoom completed, and an additional avatar
 
 
 
-  ## \[2026/02/26]
+## \[2026/02/26]
 
 * Character movement and animation BP completed
 
 
 
-  ## \[2026/02/25]
+## \[2026/02/25]
 
 * Refactored customization data, and created main character.
 * Minor bug fix, and connecting to main map.
@@ -343,7 +342,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/02/24]
+## \[2026/02/24]
 
 * Basic customization completed.
 * Input handling for character customization
@@ -351,39 +350,35 @@ Spent too much time working on this with a lot of trials and error trying to fix
 
 
 
-  ## \[2026/02/22]
+## \[2026/02/22]
 
 * Character customization Scene initial setup
 
 
 
-  ## \[2026/02/20]
+## \[2026/02/20]
 
 * Initial structure for character creation
 
 
 
-  ## \[2026/02/19]
+## \[2026/02/19]
 
 * Game login flow completed
 
-
-
-  Rate limiting / Encryption / Validation / Banning / Initial check for Avatars
-
-
+Rate limiting / Encryption / Validation / Banning / Initial check for Avatars
 
 * Main Communication structure completed.
 
 
 
-  ## \[2026/02/14]
+## \[2026/02/14]
 
 * Completed C++ Communicator
 
 
 
-  ## \[2026/02/13]
+## \[2026/02/13]
 
 * Created the initial communication logic.
 
