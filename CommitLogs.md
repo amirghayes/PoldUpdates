@@ -2,6 +2,13 @@
 
 
 
+## \[2026/05/29]
+
+
+* Fix: Hotkey updates correctly when stats change
+
+
+
 ## \[2026/05/28]
 
 
