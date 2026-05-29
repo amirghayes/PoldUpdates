@@ -2,7 +2,16 @@
 
 
 
+## \[2026/05/30]
+
+
+
+* Fix: Dragging hotkey doesn't break Equipping/Unequipping anymore
+
+
+
 ## \[2026/05/29]
+
 
 
 * Equip/Unequip weapon from Inventory and HotKeys
@@ -49,6 +58,7 @@ Spent too much time working on this with a lot of trials and error trying to fix
 * Drag and drop items in inventory
 
 Bugged: sometimes hard to drop on adjacent slot
+
 
 
 * Readme update with Tips section
