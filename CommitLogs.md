@@ -5,6 +5,7 @@
 ## \[2026/05/29]
 
 
+* Equip/Unequip weapon from Inventory and HotKeys
 * Fix: Hotkey updates correctly when stats change
 
 
