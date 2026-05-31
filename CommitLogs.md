@@ -2,6 +2,14 @@
 
 
 
+## \[2026/05/31]
+
+
+
+* Fix: Inventory and HotKeys UI updates with stats updates
+
+
+
 ## \[2026/05/30]
 
 
