@@ -5,6 +5,8 @@
 ## \[2026/06/01]
 
 
+
+* Cooldown indicator in inventory and hotkeys
 * Equipped weapon is marked in inventory
 
 
