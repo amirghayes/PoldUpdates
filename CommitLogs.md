@@ -2,6 +2,13 @@
 
 
 
+## \[2026/06/01]
+
+
+* Equipped weapon is marked in inventory
+
+
+
 ## \[2026/05/31]
 
 
