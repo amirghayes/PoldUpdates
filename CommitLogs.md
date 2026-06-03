@@ -6,6 +6,7 @@
 
 
 
+* Inventory, Hotkeys, and equipped weapon loads on startup
 * Inventory MainUpdate
 
 
