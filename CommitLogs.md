@@ -6,6 +6,7 @@
 
 
 
+* Merged working branch into main 
 * Inventory, Hotkeys, and equipped weapon loads on startup
 * Inventory MainUpdate
 
