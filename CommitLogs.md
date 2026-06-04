@@ -2,11 +2,20 @@
 
 
 
+## \[2026/06/04]
+
+
+
+* Fix: Prevented double damage to mobs related to AnimNotify
+-- Documented this issue on the Readme
+
+
+
 ## \[2026/06/03]
 
 
 
-* Merged working branch into main 
+* Merged working branch into main
 * Inventory, Hotkeys, and equipped weapon loads on startup
 * Inventory MainUpdate
 
