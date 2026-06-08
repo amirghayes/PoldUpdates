@@ -2,6 +2,14 @@
 
 
 
+## \[2026/06/08]
+
+
+
+* Basic damage display animation
+
+
+
 ## \[2026/06/07]
 
 
