@@ -6,6 +6,7 @@
 
 
 
+* Loading skills at startup
 * Skills are saved to the database
 * Basic damage display animation
 
