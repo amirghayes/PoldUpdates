@@ -6,6 +6,7 @@
 
 
 
+* Skills are saved to the database
 * Basic damage display animation
 
 
