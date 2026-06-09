@@ -6,6 +6,8 @@
 
 
 
+* Child LootInfo widget for weapons data
+-- To show Min damage, Max damage and Type
 * Child LootInfo widget for equipment data
 -- To show Durability, Decay and Range
 * Fix: Handled loading empty inventory and skills at startup
