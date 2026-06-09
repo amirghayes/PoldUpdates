@@ -2,6 +2,14 @@
 
 
 
+## \[2026/06/09]
+
+
+
+* Fix: Last damage display appears now
+
+
+
 ## \[2026/06/08]
 
 
