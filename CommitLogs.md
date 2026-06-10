@@ -2,14 +2,26 @@
 
 
 
+## \[2026/06/10]
+
+
+
+* Modified skills to allow leaderboard extraction
+
+
+
 ## \[2026/06/09]
 
 
 
 * Child LootInfo widget for weapons data
--- To show Min damage, Max damage and Type
+
+\-- To show Min damage, Max damage and Type
+
 * Child LootInfo widget for equipment data
--- To show Durability, Decay and Range
+
+\-- To show Durability, Decay and Range
+
 * Fix: Handled loading empty inventory and skills at startup
 * Fix: Last damage display appears now
 

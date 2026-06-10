@@ -31,8 +31,12 @@ That quote is just an example of how useless it is, if I will already need my cu
 
 
 * AnimNotify behaves differently in dedicated server versus listen server:
+
 -- On Listen server: It fires on both Server and Client
+
 -- On dedicated server: It runs only on Client
+
 -- To confirm try ticking the checkbox of "Launch Separate Server" under Multiplayer Options and un ticking "Run Under One Process" to test dedicated server, then reverse to test listen server.
+
 -- Possible issue in other parts of the engine, make sure to test in both scenarios when working on multiplayer project.
 
