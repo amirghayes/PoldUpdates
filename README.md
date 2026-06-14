@@ -40,3 +40,6 @@ That quote is just an example of how useless it is, if I will already need my cu
 
 -- Possible issue in other parts of the engine, make sure to test in both scenarios when working on multiplayer project.
 
+
+* Never Ever create a Name variable called DisplayName in a custom event in Blueprints, at least in UE 5.7.4, do it and try calling that event from another blueprint if you don't believe me.
+

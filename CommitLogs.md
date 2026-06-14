@@ -2,6 +2,14 @@
 
 
 
+## \[2026/06/14]
+
+
+
+* Equipment UI shows associated Skills UI
+
+
+
 ## \[2026/06/10]
 
 
