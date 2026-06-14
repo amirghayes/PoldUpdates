@@ -2,6 +2,14 @@
 
 
 
+## \[2026/06/15]
+
+
+
+* Animated UI for Skills gains
+
+
+
 ## \[2026/06/14]
 
 
@@ -26,9 +34,13 @@
 
 \-- To show Min damage, Max damage and Type
 
+
+
 * Child LootInfo widget for equipment data
 
 \-- To show Durability, Decay and Range
+
+
 
 * Fix: Handled loading empty inventory and skills at startup
 * Fix: Last damage display appears now
