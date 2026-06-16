@@ -6,6 +6,7 @@
 
 
 
+* Instant popup feedback for blocked or maxed skill gains
 * Better color contrast between different stats types
 * Centered skills popups in screen, and added some icons
 
