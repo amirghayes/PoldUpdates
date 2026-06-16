@@ -6,6 +6,7 @@
 
 
 
+* Better color contrast between different stats types
 * Centered skills popups in screen, and added some icons
 
 
