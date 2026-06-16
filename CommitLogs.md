@@ -2,6 +2,14 @@
 
 
 
+## \[2026/06/17]
+
+
+
+* Fix: Equipping wrong weapon on startup
+
+
+
 ## \[2026/06/16]
 
 
