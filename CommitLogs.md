@@ -2,6 +2,14 @@
 
 
 
+## \[2026/06/16]
+
+
+
+* Centered skills popups in screen, and added some icons
+
+
+
 ## \[2026/06/15]
 
 
