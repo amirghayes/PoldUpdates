@@ -6,6 +6,7 @@
 
 
 
+* Added 3 more stats to MobStats
 * Handled the case where a mob have multiple health types
 * Fix: Equipping wrong weapon on startup
 
