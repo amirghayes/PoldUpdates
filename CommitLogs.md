@@ -2,6 +2,14 @@
 
 
 
+## \[2026/06/23]
+
+
+
+* Default drop and limiting drops
+
+
+
 ## \[2026/06/21]
 
 
