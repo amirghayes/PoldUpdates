@@ -2,6 +2,14 @@
 
 
 
+## \[2026/06/26]
+
+
+
+* Instant popup feedback for dropped loot value
+
+
+
 ## \[2026/06/25]
 
 
