@@ -2,6 +2,16 @@
 
 
 
+## \[2026/06/25]
+
+
+
+* Bug fix: the rare occasion of double communication
+
+\-- Implemented queue for Communication manager
+
+
+
 ## \[2026/06/24]
 
 
