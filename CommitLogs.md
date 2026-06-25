@@ -6,6 +6,7 @@
 
 
 
+* Loading and saving MobHistory
 * Instant popup feedback for dropped loot value
 
 
