@@ -2,6 +2,14 @@
 
 
 
+## \[2026/07/01]
+
+
+
+* Player accounting for equipment decay 
+
+
+
 ## \[2026/06/30]
 
 
