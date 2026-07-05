@@ -2,11 +2,19 @@
 
 
 
+## \[2026/07/05]
+
+
+
+* Saving LootPool according to drops
+
+
+
 ## \[2026/07/01]
 
 
 
-* Player accounting for equipment decay 
+* Player accounting for equipment decay
 
 
 
