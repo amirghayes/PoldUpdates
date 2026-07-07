@@ -2,6 +2,14 @@
 
 
 
+## \[2026/07/08]
+
+
+
+* Finalized hunting drops calculation
+
+
+
 ## \[2026/07/05]
 
 
