@@ -2,6 +2,14 @@
 
 
 
+## \[2026/07/19]
+
+
+
+* Different effects for different big hits
+
+
+
 ## \[2026/07/13]
 
 
