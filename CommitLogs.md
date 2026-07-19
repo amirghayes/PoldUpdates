@@ -6,6 +6,7 @@
 
 
 
+* Auto screenshot for big hits
 * Different effects for different big hits
 
 
