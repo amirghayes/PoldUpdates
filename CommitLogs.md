@@ -2,6 +2,14 @@
 
 
 
+## \[2026/07/20]
+
+
+
+* Bug fix: Game freezes when clicking an equipment in inventory
+
+
+
 ## \[2026/07/19]
 
 

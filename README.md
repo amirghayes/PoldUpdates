@@ -32,14 +32,19 @@ That quote is just an example of how useless it is, if I will already need my cu
 
 * AnimNotify behaves differently in dedicated server versus listen server:
 
--- On Listen server: It fires on both Server and Client
+\-- On Listen server: It fires on both Server and Client
 
--- On dedicated server: It runs only on Client
+\-- On dedicated server: It runs only on Client
 
--- To confirm try ticking the checkbox of "Launch Separate Server" under Multiplayer Options and un ticking "Run Under One Process" to test dedicated server, then reverse to test listen server.
+\-- To confirm try ticking the checkbox of "Launch Separate Server" under Multiplayer Options and un ticking "Run Under One Process" to test dedicated server, then reverse to test listen server.
 
--- Possible issue in other parts of the engine, make sure to test in both scenarios when working on multiplayer project.
+\-- Possible issue in other parts of the engine, make sure to test in both scenarios when working on multiplayer project.
+
 
 
 * Never Ever create a Name variable called DisplayName in a custom event in Blueprints, at least in UE 5.7.4, do it and try calling that event from another blueprint if you don't believe me.
+
+
+
+* No point of caching ToolTipWidget in a variable in the parent widget, it gets created and its Construct event fires every time you hover or click on the parent widget, NEVER cache it.Period.Caching will create endless bugs.
 
